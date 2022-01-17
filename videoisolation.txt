@@ -1,0 +1,3 @@
+
+Angle Minimum: 100
+Angle Maximum: 130
